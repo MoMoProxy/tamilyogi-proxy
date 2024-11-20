@@ -1,4 +1,4 @@
-<body>
+
     <header>
         <h1>Unlock TamilYogi: Stream Movies Without Restrictions</h1>
     </header>
@@ -70,4 +70,4 @@
         <p>TamilYogi proxy sites provide a great solution for users facing geo-restrictions or site blocks. By using these mirror sites, you can enjoy a vast collection of Indian movies without worrying about access issues. For a secure and fast streaming experience, consider using MoMoProxy, a trusted service that ensures high-speed access and privacy protection.</p>
         <p><strong>Important:</strong> Always respect copyright laws while streaming movies and use proxies responsibly.</p>
     </section>
-</body>
+
