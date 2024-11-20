@@ -27,7 +27,7 @@ Pick a Verified Proxy Site: Choose one of the working proxy sites listed above.
 Enter the URL in Your Browser: Simply type in the proxy site’s URL in your browser’s address bar.
 Stream Movies: Once the site loads, you can browse and stream movies just like you would on the original TamilYogi website.
 <h2>MoMoProxy: A Reliable Proxy Solution</h2>
-To enhance your TamilYogi streaming experience, you can use MoMoProxy, a powerful proxy service that provides:
+To enhance your TamilYogi streaming experience, you can use <a href="https://momoproxy.com">MoMoProxy</a>, a powerful proxy service that provides:
 
 Global IP Coverage: Access from over 195 countries around the world.
 High-Speed Streaming: Enjoy speeds of up to 500M/S for smooth, buffer-free streaming.
