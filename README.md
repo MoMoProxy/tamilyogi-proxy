@@ -14,12 +14,12 @@ Uninterrupted Access: Even when the main TamilYogi site is blocked, proxies prov
 <h2>Working TamilYogi Proxy Sites (2024)</h2>
 The following proxy sites are currently working to access TamilYogi:
 
-tamilyogi.cc
-tamilyogi.se
-tamilyogi.wiki
-tamilyogi.blog
-tamilyogi.plus
-tamilyogi.to
+<li>tamilyogi.cc</li>
+<li>tamilyogi.se</li>
+<li>tamilyogi.wiki</li>
+<li>tamilyogi.blog</li>
+<li>tamilyogi.plus</li>
+<li>tamilyogi.to</li>
 Note: Always be mindful of copyright laws and avoid engaging with unauthorized content.
 
 <h2>How to Use TamilYogi Proxy Sites</h2>
